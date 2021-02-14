@@ -93,7 +93,6 @@ aside{
     }
   }
 
-
 #aside-conteiner{
     color: white;
     padding: 15px 2.5vh ;
@@ -136,7 +135,7 @@ article h2{
 }
 
 article h3{
-    color: rgb(78, 78, 78);
+    color: rgb(103, 103, 103);
     margin-bottom: 10px;
 }
 
@@ -157,7 +156,7 @@ article img{
 
 article p{
     font-weight: 600;
-    color: rgb(78, 78, 78);
+    color: rgb(103, 103, 103);
 }
 
 #footer-conteiner{
